@@ -1,0 +1,22 @@
+{
+  "name": "simon-game_js-jest",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al3xandruF/simon-game_js-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al3xandruF/simon-game_js-jest/issues"
+  },
+  "homepage": "https://github.com/Al3xandruF/simon-game_js-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
